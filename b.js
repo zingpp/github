@@ -1,1 +1,2 @@
-const bbb='bbb'
+const bbb='bbb';
+var bb=2;
